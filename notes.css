@@ -1,0 +1,19 @@
+#note{
+    font-size: 25px;
+}
+.page-content h2{
+    font-size: 32px;
+    color: var(--color-yellow);
+}
+.ordered-list{
+    font-size: 25px;
+   
+}
+.ordered-list li{
+    padding: 10px 0px 10px 0px;
+}
+.ordered-list li a{
+    color: var(--font-color-white);
+    font-size: 27px;
+   
+}
